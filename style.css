@@ -10,4 +10,10 @@ table{background-color: rgb(201, 178, 224);
     color: blue;
     font-size: 20px;
 }
-section,div{ background-color: yellowgreen;}
+.row{ 
+    background-color: yellowgreen;
+}
+.box{ background-color: rgb(231, 188, 188);
+    color: red;
+    font-size: 16px;
+}
